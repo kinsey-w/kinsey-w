@@ -1,5 +1,6 @@
 <h4>👨‍💻 Web Development Enthusiast | 2nd Year Student</h4>
-<p>🌱 Learning and building with HTML, CSS and JavaScript</p>
+<p>🌱 Learning and building with HTML, CSS, JavaScript and PHP</p>
+<p>🕹️ Coding for fun with Python</p>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -39,4 +40,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
 </div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kinsey-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
