@@ -46,7 +46,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
 </div>
 
+&nbsp;
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kinsey-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kinsey-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 
